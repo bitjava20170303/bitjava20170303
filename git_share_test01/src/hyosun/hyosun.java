@@ -3,7 +3,7 @@ package hyosun;
 public class hyosun {
 
 	public static void main(String[] args) {
-		// 1번이당
+		// 1번
 
 	}
 
